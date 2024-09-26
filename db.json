@@ -4,7 +4,7 @@
       "id": 1,
       "snack": "xis",
       "name": "Xis Salada",
-      "description": "O xis salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
+      "description": "O xis salada recheado com 190g de carne suculenta, queijo, alface, tomate.",
       "price": 25.5,
       "image": "https://i.imgur.com/CJj9pHh.jpeg"
     },
@@ -46,74 +46,74 @@
     {
       "id": 1,
       "snack": "bokao",
-      "name": "Calabresa",
-      "description": "bokao recheada com calabresa, cebola, mussarela, orégano e azeitona, tendo uma borda recheada com catupiry.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 25,
-      "image": "https://i.imgur.com/5rjJGkV.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 2,
       "snack": "bokao",
-      "name": "Portuguesa",
-      "description": "bokao recheada com presunto, mussarela, ovo, cebola, azeitona, orégano, tomate e molho de tomate, tendo uma borda recheada com catupiry.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 28.5,
-      "image": "https://i.imgur.com/WCoyGoI.png"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 3,
       "snack": "bokao",
-      "name": "Frango com Catupiry",
-      "description": "bokao recheada com frango, catupiry e brócolis, tendo uma borda recheada com catupiry.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 24,
-      "image": "https://i.imgur.com/BuXrO8d.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 4,
       "snack": "bokao",
-      "name": "Napolitana",
-      "description": "bokao recheada com queijo, mussarela, tomate e couve, tendo uma borda recheada com catupiry.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 30,
-      "image": "https://i.imgur.com/u3DfvCE.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 5,
       "snack": "bokao",
-      "name": "Mussarela",
-      "description": "bokao recheada com mussarela, tendo uma borda recheada com catupiry. ",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 20.5,
-      "image": "https://i.imgur.com/kPNXpa0.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 6,
       "snack": "bokao",
-      "name": "Marguerita",
-      "description": "bokao recheada com calabresa, mussarela, cebola, azeitona e orégano, tendo uma borda recheada com catupiry.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 25.5,
-      "image": "https://i.imgur.com/AsEfsZN.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 7,
       "snack": "bokao",
-      "name": "Brigadeiro com Morango",
-      "description": "bokao doce recheada com brigadeiro e morango.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 35.0,
-      "image": "https://i.imgur.com/43yC2Ap.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 8,
       "snack": "bokao",
-      "name": "Banana",
-      "description": "bokao doce recheada com banana e leite condensado.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 33.5,
-      "image": "https://i.imgur.com/Pcrgg1P.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     },
     {
       "id": 9,
       "snack": "bokao",
-      "name": "Chocolate",
-      "description": "bokao doce recheada com chocolate e bolinhas de chocolate.",
+      "name": "Bokão",
+      "description": "bokao salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
       "price": 30,
-      "image": "https://i.imgur.com/RahAKkH.jpg"
+      "image": "https://imgur.com/gallery/hamburguer-QZ7oIp4"
     }
   ],
 
@@ -156,42 +156,26 @@
     {
       "id": 1,
       "snack": "tabua",
-      "name": "Casquinha",
-      "description": "A casquinha crocante e saborosa que nossos clientes amam.",
+      "name": "Tábua",
+      "description": "Tábua de carne",
       "price": 4.5,
-      "image": "https://i.imgur.com/YGmeoCm.jpg"
+      "image": "https://imgur.com/gallery/carne-asada-curly-fries-ygOh79w"
     },
     {
       "id": 2,
       "snack": "tabua",
-      "name": "Chocolate com granulado",
-      "description": "Sorvete de chocolate com granulados em chocolate para você se deliciar.",
+      "name": "Tábua",
+      "description": "Tábua de carne",
       "price": 6,
-      "image": "https://i.imgur.com/osAHOLe.jpg"
+      "image": "https://imgur.com/gallery/carne-asada-curly-fries-ygOh79w"
     },
     {
       "id": 3,
       "snack": "tabua",
-      "name": "Flocos",
-      "description": "O tradicional flocos vem com cobertura em chocolate para adocicar seu dia.",
+      "name": "Tábua",
+      "description": "Tábua de carne",
       "price": 7,
-      "image": "https://i.imgur.com/qgnFLiy.jpg"
+      "image": "https://imgur.com/gallery/carne-asada-curly-fries-ygOh79w"
     },
-    {
-      "id": 4,
-      "snack": "tabua",
-      "name": "Creme",
-      "description": "O simples sorvete de creme com um gosto irresistível.",
-      "price": 6.5,
-      "image": "https://i.imgur.com/dFLysrT.jpg"
-    },
-    {
-      "id": 5,
-      "snack": "tabua",
-      "name": "Morango",
-      "description": "O clássico sorvete de morango que deixe tudo mais leve.",
-      "price": 10,
-      "image": "https://i.imgur.com/0TWnEI7.jpg"
-    }
   ]
 }
