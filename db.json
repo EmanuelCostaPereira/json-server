@@ -1,197 +1,80 @@
 {
-  "xis": [
+  "clientes": [
     {
       "id": 1,
-      "snack": "xis",
-      "name": "Xis Salada",
-      "description": "O xis salada recheado com 180g de carne suculenta, queijo, alface, tomate.",
-      "price": 25.5,
-      "image": "https://i.imgur.com/CJj9pHh.jpeg"
+      "nome": "João da Silva",
+      "telefone": "123456789",
+      "endereco": "Rua dos Animais, 123"
     },
     {
       "id": 2,
-      "snack": "xis",
-      "name": "Xis Bacon",
-      "description": "O xis bacon recheado com 180g de carne suculenta, queijo, alface, tomate e bacon.",
-      "price": 23.5,
-      "image": "https://i.imgur.com/CJj9pHh.jpeg"
-    },
-    {
-      "id": 3,
-      "snack": "xis",
-      "name": "Xis Coração",
-      "description": "O xis bacon recheado com 180g de carne suculenta, queijo, alface, tomate.",
-      "price": 23,
-      "image": "https://i.imgur.com/CJj9pHh.jpeg"
-    },
-    {
-      "id": 4,
-      "snack": "xis",
-      "name": "Xis Galinha",
-      "description": "O xis bacon recheado com 180g de carne de galinha, queijo, alface, tomate.",
-      "price": 20.0,
-      "image": "https://i.imgur.com/CJj9pHh.jpeg"
-    },
-    {
-      "id": 5,
-      "snack": "xis",
-      "name": "Xis Calabresa",
-      "description": "O xis calabresa recheado com 180g de calabresa, queijo, alface, tomate.",
-      "price": 20,
-      "image": "https://i.imgur.com/CJj9pHh.jpeg"
+      "nome": "Maria Souza",
+      "telefone": "987654321",
+      "endereco": "Avenida dos Pets, 456"
     }
   ],
-
-  "bokaos": [
+  "animais": [
     {
       "id": 1,
-      "snack": "bokao",
-      "name": "Calabresa",
-      "description": "bokao recheada com calabresa, cebola, mussarela, orégano e azeitona, tendo uma borda recheada com catupiry.",
-      "price": 25,
-      "image": "https://i.imgur.com/5rjJGkV.jpg"
+      "nome": "Rex",
+      "especie": "Cachorro",
+      "raca": "Labrador",
+      "idade": 3,
+      "cliente_id": 1
     },
     {
       "id": 2,
-      "snack": "bokao",
-      "name": "Portuguesa",
-      "description": "bokao recheada com presunto, mussarela, ovo, cebola, azeitona, orégano, tomate e molho de tomate, tendo uma borda recheada com catupiry.",
-      "price": 28.5,
-      "image": "https://i.imgur.com/WCoyGoI.png"
+      "nome": "Mimi",
+      "especie": "Gato",
+      "raca": "Siamês",
+      "idade": 2,
+      "cliente_id": 1
     },
     {
       "id": 3,
-      "snack": "bokao",
-      "name": "Frango com Catupiry",
-      "description": "bokao recheada com frango, catupiry e brócolis, tendo uma borda recheada com catupiry.",
-      "price": 24,
-      "image": "https://i.imgur.com/BuXrO8d.jpg"
+      "nome": "Lola",
+      "especie": "Cachorro",
+      "raca": "Poodle",
+      "idade": 5,
+      "cliente_id": 2
     },
     {
       "id": 4,
-      "snack": "bokao",
-      "name": "Napolitana",
-      "description": "bokao recheada com queijo, mussarela, tomate e couve, tendo uma borda recheada com catupiry.",
-      "price": 30,
-      "image": "https://i.imgur.com/u3DfvCE.jpg"
-    },
-    {
-      "id": 5,
-      "snack": "bokao",
-      "name": "Mussarela",
-      "description": "bokao recheada com mussarela, tendo uma borda recheada com catupiry. ",
-      "price": 20.5,
-      "image": "https://i.imgur.com/kPNXpa0.jpg"
-    },
-    {
-      "id": 6,
-      "snack": "bokao",
-      "name": "Marguerita",
-      "description": "bokao recheada com calabresa, mussarela, cebola, azeitona e orégano, tendo uma borda recheada com catupiry.",
-      "price": 25.5,
-      "image": "https://i.imgur.com/AsEfsZN.jpg"
-    },
-    {
-      "id": 7,
-      "snack": "bokao",
-      "name": "Brigadeiro com Morango",
-      "description": "bokao doce recheada com brigadeiro e morango.",
-      "price": 35.0,
-      "image": "https://i.imgur.com/43yC2Ap.jpg"
-    },
-    {
-      "id": 8,
-      "snack": "bokao",
-      "name": "Banana",
-      "description": "bokao doce recheada com banana e leite condensado.",
-      "price": 33.5,
-      "image": "https://i.imgur.com/Pcrgg1P.jpg"
-    },
-    {
-      "id": 9,
-      "snack": "bokao",
-      "name": "Chocolate",
-      "description": "bokao doce recheada com chocolate e bolinhas de chocolate.",
-      "price": 30,
-      "image": "https://i.imgur.com/RahAKkH.jpg"
+      "nome": "Nina",
+      "especie": "Gato",
+      "raca": "Persa",
+      "idade": 1,
+      "cliente_id": 2
     }
   ],
-
-  "bebidas": [
+  "produtos": [
     {
       "id": 1,
-      "snack": "bebida",
-      "name": "Coca-Cola 2L",
-      "description": "A tradicional Coca-Cola que a família brasileira adora.",
-      "price": 12,
-      "image": "https://i.imgur.com/Lg3aKhf.jpg"
+      "nome": "Ração para cães",
+      "marca": "Premier",
+      "preco": 50.99,
+      "quantidade_estoque": 100
     },
     {
       "id": 2,
-      "snack": "bebida",
-      "name": "Guaraná Antarctica",
-      "description": "O irresistível e saboroso Guaraná Antarctica em sua versão de latinha.",
-      "price": 6.5,
-      "image": "https://i.imgur.com/hOBrOIm.jpg"
-    },
-    {
-      "id": 3,
-      "snack": "bebida",
-      "name": "Suco de Abacaxi",
-      "description": "Suco natural de abacaxi com leves incrementos de algumas hortaliças para fortificar sua saúde.",
-      "price": 8,
-      "image": "https://i.imgur.com/VV9qTMh.jpg"
-    },
-    {
-      "id": 4,
-      "snack": "bebida",
-      "name": "Suco de Laranja",
-      "description": "Suco natural de laranja para você que é amante dessa fruta.",
-      "price": 8,
-      "image": "https://i.imgur.com/2Lf2gHy.jpg"
+      "nome": "Areia sanitária para gatos",
+      "marca": "Chalesco",
+      "preco": 25.99,
+      "quantidade_estoque": 50
     }
   ],
-
-  "tabuas": [
+  "servicos": [
     {
       "id": 1,
-      "snack": "tabua",
-      "name": "Casquinha",
-      "description": "A casquinha crocante e saborosa que nossos clientes amam.",
-      "price": 4.5,
-      "image": "https://i.imgur.com/YGmeoCm.jpg"
+      "nome": "Banho e tosa",
+      "preco": 80.0,
+      "duracao_minutos": 120
     },
     {
       "id": 2,
-      "snack": "tabua",
-      "name": "Chocolate com granulado",
-      "description": "Sorvete de chocolate com granulados em chocolate para você se deliciar.",
-      "price": 6,
-      "image": "https://i.imgur.com/osAHOLe.jpg"
-    },
-    {
-      "id": 3,
-      "snack": "tabua",
-      "name": "Flocos",
-      "description": "O tradicional flocos vem com cobertura em chocolate para adocicar seu dia.",
-      "price": 7,
-      "image": "https://i.imgur.com/qgnFLiy.jpg"
-    },
-    {
-      "id": 4,
-      "snack": "tabua",
-      "name": "Creme",
-      "description": "O simples sorvete de creme com um gosto irresistível.",
-      "price": 6.5,
-      "image": "https://i.imgur.com/dFLysrT.jpg"
-    },
-    {
-      "id": 5,
-      "snack": "tabua",
-      "name": "Morango",
-      "description": "O clássico sorvete de morango que deixe tudo mais leve.",
-      "price": 10,
-      "image": "https://i.imgur.com/0TWnEI7.jpg"
+      "nome": "Consulta veterinária",
+      "preco": 120.0,
+      "duracao_minutos": 60
     }
   ]
 }
